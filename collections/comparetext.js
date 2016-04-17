@@ -1,0 +1,1 @@
+Comparetext = new Mongo.Collection('comparetext');
